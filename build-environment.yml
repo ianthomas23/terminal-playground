@@ -1,0 +1,9 @@
+name: terminal-playground
+channels:
+  - conda-forge
+dependencies:
+  - nodejs=24
+  - jupyter_server
+  - jupyterlite-terminal>=1.2.0
+  - jupyterlite-core
+  - jupyterlite-pyodide-kernel
