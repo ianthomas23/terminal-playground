@@ -2,6 +2,7 @@ name: terminal-playground
 channels:
   - conda-forge
 dependencies:
+  - catppuccin-jupyterlab
   - nodejs=24
   - jupyter_server
   - jupyterlite-terminal
