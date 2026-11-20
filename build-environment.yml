@@ -5,6 +5,7 @@ dependencies:
   - catppuccin-jupyterlab
   - nodejs=24
   - jupyter_server
-  - jupyterlite-terminal
   - jupyterlite-core
   - jupyterlite-pyodide-kernel
+  - pip:
+    - jupyterlite-terminal
